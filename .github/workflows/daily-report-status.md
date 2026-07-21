@@ -10,4 +10,5 @@ safe-outputs:
   create-issue:
 ---
 
-Generate an activity report in a new issue.
+After identifying the most-reacted issue, write one sentence explaining why resolving it
+would benefit the team, based on the issue title and description.
